@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raul Rodriguez-Esteban</h1>
 <h3 align="center">A computational scientist living in Switzerland</h3>
 
-- 🔭 I’m currently working on **bioNLP and machine learning**
+- 🔭 I’m currently working on **bioNLP, data science and machine learning**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raulrodriguezesteban/](https://www.linkedin.com/in/raulrodriguezesteban/)
 
