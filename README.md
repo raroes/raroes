@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **bioNLP, data science and machine learning**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raulrodriguezesteban/](https://www.linkedin.com/in/raulrodriguezesteban/)
+- 📄 Know about my work experience [https://www.linkedin.com/in/raulrodriguezesteban/](https://www.linkedin.com/in/raulrodriguezesteban/)
 
 - 🌱 Read about my published scientific work [https://www.researchgate.net/profile/Raul_Rodriguez-Esteban/publications/](https://www.researchgate.net/profile/Raul_Rodriguez-Esteban/publications/)
 
